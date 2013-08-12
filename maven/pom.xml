@@ -90,7 +90,7 @@
               <version>[2.0.0,)</version>
             </requireMavenVersion>
             <requireJavaVersion>
-              <version>[${javaVersion}.0,${javaVersion}.1000]</version>
+              <version>[${javaVersion},]</version>
             </requireJavaVersion>
           </rules>
         </configuration>
